@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Eclipse/Scenes/Eclipse Image Tracker.unity
     guid: 3b2dc4ba5486cb3448e6cd8d51bd32c0
+  - enabled: 1
+    path: Assets/WebAR Foundation/Samples/ImageTrackingBasic.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
